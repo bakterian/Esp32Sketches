@@ -1,11 +1,12 @@
 #include <SPI.h>
 #include <LoRa.h>
-#include "SSD1306.h"
+#include <Wire.h>
+#include "SSD1306Wire.h"
 #include <Arduino.h>
 #include "AppConfig.h"
 
  
-SSD1306  display(0x3c, 4, 15);
+SSD1306Wire  display(0x3c, 4, 15);
 
 // ##### Moisture Measurment variables
 int counter     = 0;

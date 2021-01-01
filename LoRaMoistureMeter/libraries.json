@@ -1,0 +1,10 @@
+[
+    {
+        "folderName":"SSD1306Wire",
+        "weblink":"https://github.com/ThingPulse/esp8266-oled-ssd1306/archive/4.0.0.zip"
+    },
+    {
+        "folderName":"LoRa",
+        "weblink":"https://github.com/sandeepmistry/arduino-LoRa/archive/0.3.0.zip"
+    }
+]

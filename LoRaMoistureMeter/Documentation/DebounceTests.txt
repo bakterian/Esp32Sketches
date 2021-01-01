@@ -1,0 +1,145 @@
+Button #1 falling edge was identified: 8 times.
+interuptTime #1: 0
+interuptTime #2: 9487838
+interuptTime #3: 9487843
+interuptTime #4: 9487843
+interuptTime #5: 9487855
+interuptTime #6: 9487856
+interuptTime #7: 9487860
+interuptTime #8: 9487881
+Button #1 is pressed.
+MAX_DELTA_US: 94878819 - 94878380 = 439 us
+
+Button #1 falling edge was identified: 9 times.
+interuptTime #1: 0
+interuptTime #2: 12506524
+interuptTime #3: 12506525
+interuptTime #4: 12506526
+interuptTime #5: 12506527
+interuptTime #6: 12506527
+interuptTime #7: 12506529
+interuptTime #8: 12506530
+interuptTime #9: 12506531
+MAX_DELTA_US: 125065319 - 125065240 = 79 us
+
+Button #1 falling edge was identified: 13 times.
+interuptTime #1: 0
+interuptTime #2: 14193467
+interuptTime #3: 14193468
+interuptTime #4: 14193469
+interuptTime #5: 14193479
+interuptTime #6: 14193503
+interuptTime #7: 14193504
+interuptTime #8: 14193507
+interuptTime #9: 14193508
+interuptTime #10: 14193510
+interuptTime #11: 14193511
+interuptTime #12: 14193511
+interuptTime #13: 14193514
+MAX_DELTA_US: 141935149 - 141934670 = 479 us
+
+
+Button #1 falling edge was identified: 21 times.
+interuptTime #1: 1589467
+interuptTime #2: 1589490
+interuptTime #3: 1589490
+interuptTime #4: 1589495
+interuptTime #5: 1589500
+interuptTime #6: 1589503
+interuptTime #7: 1589505
+interuptTime #8: 1589506
+interuptTime #9: 1589508
+interuptTime #10: 1589508
+interuptTime #11: 1589511
+interuptTime #12: 1589513
+interuptTime #13: 1589514
+interuptTime #14: 1589514
+interuptTime #15: 1589515
+interuptTime #16: 1589516
+interuptTime #17: 1589517
+interuptTime #18: 1589517
+interuptTime #19: 1589529
+interuptTime #20: 1589531
+DELTA_US: 640 us.
+
+Button #1 falling edge was identified: 6 times.
+interuptTime #1: 9484830
+interuptTime #2: 9484831
+interuptTime #3: 9484838
+interuptTime #4: 9484857
+interuptTime #5: 9484858
+DELTA_US: 280 us.
+
+
+Button #1 falling edge was identified: 7 times.
+interuptTime #1: 2020292
+interuptTime #2: 2020298
+interuptTime #3: 2020315
+interuptTime #4: 2020316
+interuptTime #5: 2020316
+interuptTime #6: 2020317
+DELTA_US: 250 us.
+
+
+Button #1 falling edge was identified: 11 times.
+interuptTime #1: 11096577
+interuptTime #2: 11096605
+interuptTime #3: 11096630
+interuptTime #4: 11096630
+interuptTime #5: 11096635
+interuptTime #6: 11096637
+interuptTime #7: 11096641
+interuptTime #8: 11096647
+interuptTime #9: 11096650
+interuptTime #10: 11096651
+DELTA_US: 740 us.
+
+interuptTime #1: 13573711
+interuptTime #2: 13573714
+interuptTime #3: 13573727
+interuptTime #4: 13573732
+interuptTime #5: 13573740
+interuptTime #6: 13573750
+interuptTime #7: 13573786
+interuptTime #8: 13573788
+interuptTime #9: 13573794
+interuptTime #10: 13573795
+interuptTime #11: 13573799
+interuptTime #12: 13573799
+DELTA_US: 880 us.
+
+Button #1 falling edge was identified: 32 times.
+interuptTime #1: 23717938
+interuptTime #2: 23717973
+interuptTime #3: 23717990
+interuptTime #4: 23717995
+interuptTime #5: 23717996
+interuptTime #6: 23717997
+interuptTime #7: 23717998
+interuptTime #8: 23717998
+interuptTime #9: 23718014
+interuptTime #10: 23718017
+interuptTime #11: 23718019
+interuptTime #12: 23718020
+interuptTime #13: 23718021
+interuptTime #14: 23718025
+interuptTime #15: 23718043
+interuptTime #16: 23718045
+interuptTime #17: 23718046
+interuptTime #18: 23718046
+interuptTime #19: 23718054
+interuptTime #20: 23718057
+interuptTime #21: 23718060
+interuptTime #22: 23718079
+interuptTime #23: 23718082
+interuptTime #24: 23718083
+interuptTime #25: 23718084
+interuptTime #26: 23718084
+interuptTime #27: 23718085
+interuptTime #28: 23718085
+interuptTime #29: 23718086
+interuptTime #30: 23718086
+interuptTime #31: 23718088
+DELTA_US: 1500 us.
+
+BEST DETACH FROM INTERRUPT AFTER IT WAS RECOGNIZED !!!!

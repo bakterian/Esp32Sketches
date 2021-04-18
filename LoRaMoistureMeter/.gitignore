@@ -8,4 +8,6 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
-build.esp32-1.0.1 
+build.esp32-1.0.1
+test/build 
+buildUT

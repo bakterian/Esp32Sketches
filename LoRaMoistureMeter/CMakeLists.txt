@@ -6,3 +6,9 @@ add_custom_target(AppBuild COMMAND make ARDUINO_ARCH=esp32 ARDUINO_VARIANT=esp32
 
 )
 
+add_subdirectory(test)
+
+# could be done cleaner by 
+# add_custom_target(UTBuild COMMAND test/build.sh 
+# 		  WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
+# )

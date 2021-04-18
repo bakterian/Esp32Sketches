@@ -34,8 +34,9 @@ Just run the installLibraries script which will fetch and unpack the third-party
 # bash installLibraries.bash
 ```
 
-# Building
+# Building Application
 The build process is managed using cmake.
+
 Run the following to generate, configure cmake (after navigating to this folder):
 ```bassh
 $ cmake . 
@@ -46,8 +47,29 @@ $ cmake --build . --target AppBuild
 ```
 If a adjustment or change of the arduino compilation aruments is needed just modify the CMakeLists.txt
 
+For convience simply run the buildAPP.sh bash script which issues the two commands
 
-# Unit Testing
-To be added.
+# Building UniTest
+Prerequiste is a checkout arduino-mock spurce directory at the same level as Esp32Sketches dir
 
+Create the build directory and moving to that directory:
+```bassh
+mkdir -p buildUT
+cd buildUT
+```
 
+Run the following to generate, configure cmake :
+```bassh
+cmake ../test
+```
+
+Run the following command to build the unit test binaries (using make):
+```bassh
+make
+```
+
+Run Unit tests:
+```bassh
+ctest -VV -debug
+```
+For convience simply run the buildUT.sh bash script which issues the above commands
